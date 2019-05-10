@@ -1,0 +1,8 @@
+#ignore .dat files and results
+*.dat
+results/
+
+#allow example to be completed
+!example.dat
+!**/example.out
+
